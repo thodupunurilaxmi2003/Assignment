@@ -1,0 +1,15 @@
+.row{
+    border:solid 1px black;
+    height:240px;
+}
+.col{
+    border:solid 2px black;
+    display:inline-block;
+    height:100%;
+    width:60;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.ab{
+    text-decoration: underline;
+}
